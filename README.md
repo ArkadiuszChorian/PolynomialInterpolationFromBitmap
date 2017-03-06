@@ -24,3 +24,7 @@ Algorytmy: Minimalna roznica wartosci(MRW), Usrednione punkty (UP)
 | 7	| 30 | UP
 
 Dla tych ustawień funkcje powinny zostać przybliżone bardzo zadowalająco.
+
+# Przykład
+
+![alt text](https://github.com/archer333/PolynomialInterpolationFromBitmap/blob/master/PolynomialInterpolationFromBitmap/InterpolacjaBMPscreenshot.PNG "Screenshot")
