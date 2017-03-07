@@ -2,6 +2,8 @@
 
 Projekt "Interpolacja wielomianu z bitmap" dotyczy zagadnień z dziedziny metod numerycznych i symulacji. W ramach projektu został napisany program w języku C++, który pozwala na interpolację funkcji zawartej w pliku bitmap. W praktyce oznacza to, że danymi wejściowymi programu jest plik *.bmp ze szkicem funkcji, natomiast w rezultacie otrzymujemy współczynniki wielomianu interpolującego (przybliżającego) funkcję oraz wykres przedstawiający czyste dane z bitmapy w porównaniu z wykresem wielomianu interpolującego. Do prezentacji graficznej wykorzystano pakiet gnuplot. Do przetwarzania obrazów bitmapowych wykorzystano bibliotekę EasyBMP. Program działa zarówno pod systemem Windows, jak i Linux.
 
+Data wykonania: 2013
+
 # Przykład
 
 ![alt text](https://github.com/archer333/PolynomialInterpolationFromBitmap/blob/master/PolynomialInterpolationFromBitmap/InterpolacjaBMPscreenshot.PNG "Screenshot")
